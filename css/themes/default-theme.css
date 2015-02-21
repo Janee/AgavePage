@@ -1,0 +1,139 @@
+
+.scrollToTop{
+	background-color: #5b95cf;
+}
+.scrollToTop:hover,.scrollToTop:focus{
+  background-color: #fff;
+  color: #5b95cf;
+  border: 1px solid #5b95cf;
+}
+.navbar-brand > span {
+  color: #5b95cf;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { 
+  color: #5b95cf;
+}
+.navbar-default .navbar-nav > li > a:hover{
+  color: #5b95cf;
+}
+.slider_btn:hover,.slider_btn:focus{
+	border-color:#5b95cf;
+	color: #5b95cf;
+}
+.slides-navigation a::before,
+.slides-navigation a::after,
+.slides-navigation .icon-wrap::before,
+.slides-navigation .icon-wrap::after {
+	background: #5b95cf;
+}
+.slides-pagination a {
+  border: 2px solid #5b95cf;
+}
+.heading h2 {
+  border-bottom: 11px solid #5b95cf;
+}
+.panel-title a:hover{
+	color: #5b95cf;		
+}
+.panel-title a span{
+  color: #5b95cf;		
+}
+.service_icon{
+	background-color: #5b95cf;
+}
+
+.single_service:hover .service_icon{	
+	color: #5b95cf;
+	border: 2px solid #5b95cf;
+	background-color: #fff;
+}
+.single_service:hover .service_title{
+	color: #5b95cf;
+}
+.single_service > .service_title:after {
+  background-color: #5b95cf;
+}
+.heading h3 {
+  border-bottom: 5px solid #5b95cf;
+}
+.fa-2x {
+  color: #5b95cf;
+}
+.single_team span {
+  color: #5b95cf;
+}
+.team_social a:hover,.team_social a:focus{
+	background-color: #5b95cf;
+}
+.slick-prev, .slick-next {
+  background-color: #5b95cf;
+}
+.single_price .price {
+  background-color: #5b95cf; 
+}
+.price_btn {
+  background-color: #5b95cf;
+  border: 1px solid #5b95cf;
+}
+.price_btn:hover{
+	color: #5b95cf !important;
+}
+.business_price {
+  background-color: #5b95cf !important;
+}
+.business_price .price_btn{	
+	color: #5b95cf !important;
+}
+.post_commentbox a:hover, .post_commentbox span:hover{
+	color: #5b95cf;
+}
+.read_more{
+	color: #5b95cf;	
+}
+.read_more:hover,.read_more:focus{
+	border-bottom: 2px solid #5b95cf;
+}
+.testi_media .media-body span {
+  color: #5b95cf;
+}
+.testimonial_slider .slick-dots li.slick-active button{
+  background: none repeat scroll 0 0 #5b95cf;  
+}
+.submit_btn {
+  background-color: #5b95cf;
+}
+.submit_btn:hover{
+	color: #5b95cf;
+	border-color: #5b95cf;
+}
+.form-control:focus {
+  border-color: #5b95cf;
+}
+.wagwep-container ul#portfolio-filter a:hover{
+  background-color: #5b95cf;
+}
+.wagwep-container ul#portfolio-filter li.current a {
+  background:#5b95cf;  
+}
+.single_contact_feaured > i {
+  color: #5b95cf;
+}
+.subscr_btn {
+  background-color: #5b95cf;
+}
+.footer_left > p a {
+  color: #5b95cf;
+  font-weight: bold;
+}
+.social_nav li a:hover{
+  color: #5b95cf;
+  border-color: #5b95cf; 
+}
+.panel-default .in{
+  border-color: #5b95cf;
+  border-left: 5px solid #5b95cf;
+}
+.about_slider .slick-dots li.slick-active button:before {
+  color: #5b95cf;
+}
