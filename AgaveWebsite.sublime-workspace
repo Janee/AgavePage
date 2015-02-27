@@ -31,15 +31,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 46091,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/DianaJaneth/Desktop/car-zone-automobile-bootstrap-responsive-web-template/index.html",
-			"settings":
-			{
-				"buffer_size": 0,
+				"buffer_size": 46136,
 				"line_ending": "Windows"
 			}
 		},
@@ -55,11 +47,79 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 265.0,
 		"selected_items":
 		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet if",
+				"Snippet: if … else …"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitk",
+				"Git: Gitk"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git comm",
+				"Git: Amend Commit"
+			],
+			[
+				"git co",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Log All"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			]
 		],
-		"width": 0.0
+		"width": 528.0
 	},
 	"console":
 	{
@@ -76,6 +136,14 @@
 	},
 	"file_history":
 	[
+		"/C/Users/DianaJaneth/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/DianaJaneth/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/DianaJaneth/Desktop/Agave/js/custom.js",
+		"/C/Users/DianaJaneth/Desktop/Agave/contact.php",
+		"/C/Users/DianaJaneth/Desktop/car-zone-automobile-bootstrap-responsive-web-template/index.html",
+		"/C/Users/DianaJaneth/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/Users/DianaJaneth/Desktop/Agave/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/C/Users/DianaJaneth/Desktop/Agave/AgaveWebsite.sublime-project",
 		"/C/Users/DianaJaneth/Desktop/SinglePro/js/portfolio_slider.js",
 		"/C/Users/DianaJaneth/Desktop/SinglePro/index.html",
 		"/C/Users/DianaJaneth/Desktop/SinglePro/contact.php",
@@ -104,6 +172,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"3",
+			"col-lg-3 col-md-3",
+			"</p>",
+			"<p>",
+			"                    <",
+			"position",
+			"\n	",
+			"padding",
+			"testimonial_slider",
+			"content",
+			"Content",
+			"content",
+			"}\n",
+			"\n  ",
+			";\n",
 			"counter",
 			"-3",
 			"last_name",
@@ -136,59 +219,32 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 46091,
+						"buffer_size": 46136,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5825,
-								5825
+								28460,
+								28471
 							]
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1805.0,
+						"translation.y": 330.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/DianaJaneth/Desktop/car-zone-automobile-bootstrap-responsive-web-template/index.html",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 249.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "style.css",
 					"settings":
 					{
@@ -199,18 +255,19 @@
 						"selection":
 						[
 							[
-								12468,
-								12468
+								14772,
+								14772
 							]
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
 							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8143.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -249,6 +306,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
 	"replace":
 	{
 		"height": 0.0
@@ -264,16 +325,20 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"/C/Users/DianaJaneth/Desktop/Agave/AgaveWebsite.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 221.0,
 	"status_bar_visible": true
 }
