@@ -31,7 +31,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 46136,
+				"buffer_size": 46137,
 				"line_ending": "Windows"
 			}
 		},
@@ -47,9 +47,41 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 265.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
 			[
 				"in",
 				"Package Control: Install Package"
@@ -67,10 +99,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
 				"pack",
 				"Package Control: Install Package"
 			],
@@ -83,10 +111,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"git push",
-				"Git: Push Current Branch"
-			],
-			[
 				"gitk",
 				"Git: Gitk"
 			],
@@ -97,10 +121,6 @@
 			[
 				"git statu",
 				"Git: Status"
-			],
-			[
-				"git comm",
-				"Git: Amend Commit"
 			],
 			[
 				"git co",
@@ -219,15 +239,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 46136,
+						"buffer_size": 46137,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								28460,
-								28471
+								17820,
+								17820
 							]
 						],
 						"settings":
@@ -238,7 +258,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 330.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

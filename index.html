@@ -96,7 +96,22 @@
         </nav>  
       </div>
       <!-- END MENU -->
-
+      <div class="modal fade" id="modalConstruccion">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header text-center">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+              <h2 class="modal-title text-danger"><span class="glyphicon glyphicon-warning-sign"></span> ¡Alto!</h2>
+            </div>
+            <div class="modal-body">
+              Este sitio sigue en construcción, no todas las imágenes y detalles están correctas. 
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-primary" data-dismiss="modal">Continuar</button>
+            </div>
+          </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+      </div><!-- /.modal -->
       <!-- BEGIN SLIDER AREA-->
       <div class="slider_area">
         <!-- BEGIN SLIDER-->          
@@ -908,5 +923,10 @@
 
     <!-- Custom js-->
     <script src="js/custom.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+          $('#modalConstruccion').modal();
+        });
+    </script>
   </body>
 </html>
