@@ -31,7 +31,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 46137,
+				"buffer_size": 46941,
 				"line_ending": "Windows"
 			}
 		},
@@ -51,6 +51,46 @@
 		"selected_items":
 		[
 			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"curr",
+				"Git: Add Current File"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"docu",
+				"Snippet: $(document).ready"
+			],
+			[
+				"modal",
+				"Snippet: bs3-modal"
+			],
+			[
 				"set ht",
 				"Set Syntax: HTML"
 			],
@@ -61,14 +101,6 @@
 			[
 				"push",
 				"Git: Push"
-			],
-			[
-				"comm",
-				"Git: Commit"
-			],
-			[
-				"add",
-				"Git: Add Current File"
 			],
 			[
 				"git push",
@@ -84,10 +116,6 @@
 			],
 			[
 				"in",
-				"Package Control: Install Package"
-			],
-			[
-				"inst",
 				"Package Control: Install Package"
 			],
 			[
@@ -156,6 +184,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/DianaJaneth/AppData/Roaming/Sublime Text 2/Packages/User/WakaTime.sublime-settings",
+		"/C/Users/DianaJaneth/AppData/Roaming/Sublime Text 2/Packages/WakaTime/WakaTime.sublime-settings",
+		"/C/Users/DianaJaneth/AppData/Local/Temp/Temp1_ChidosBurritos.zip/ChidosBurritos/resources/fonts-1427990875846.css",
+		"/C/Users/DianaJaneth/Desktop/Agave/.git/config",
 		"/C/Users/DianaJaneth/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/Users/DianaJaneth/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/DianaJaneth/Desktop/Agave/js/custom.js",
@@ -192,6 +224,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" END",
+			"end",
+			"END",
+			"BEGIN",
+			"item1",
+			"h4",
 			"3",
 			"col-lg-3 col-md-3",
 			"</p>",
@@ -239,15 +277,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 46137,
+						"buffer_size": 46941,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								17820,
-								17820
+								46275,
+								46275
 							]
 						],
 						"settings":
@@ -258,7 +296,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 13690.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
