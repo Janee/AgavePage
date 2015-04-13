@@ -31,7 +31,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 46351,
+				"buffer_size": 45813,
 				"line_ending": "Windows"
 			}
 		},
@@ -47,7 +47,15 @@
 			"file": "js/portfolio_slider.js",
 			"settings":
 			{
-				"buffer_size": 8342,
+				"buffer_size": 8390,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/custom.js",
+			"settings":
+			{
+				"buffer_size": 11912,
 				"line_ending": "Windows"
 			}
 		}
@@ -248,6 +256,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"portfolio_gallery",
+			"portf",
+			"#elastic_grid_demo",
+			"elastic_grid_demo",
 			"large/",
 			"small/",
 			"large/",
@@ -308,7 +320,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -316,15 +328,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 46351,
+						"buffer_size": 45813,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								27610,
-								27610
+								32873,
+								32873
 							]
 						],
 						"settings":
@@ -335,7 +347,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 7373.0,
+						"translation.y": 22994.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -352,8 +364,8 @@
 						"selection":
 						[
 							[
-								644,
-								644
+								13294,
+								13311
 							]
 						],
 						"settings":
@@ -364,7 +376,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 8908.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -374,15 +386,15 @@
 					"file": "js/portfolio_slider.js",
 					"settings":
 					{
-						"buffer_size": 8342,
+						"buffer_size": 8390,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								33,
-								33
+								18,
+								35
 							]
 						],
 						"settings":
@@ -393,6 +405,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/custom.js",
+					"settings":
+					{
+						"buffer_size": 11912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6253,
+								6253
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monocyanide.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5924.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
