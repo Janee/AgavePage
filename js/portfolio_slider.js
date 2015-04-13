@@ -81,7 +81,7 @@ $("#elastic_grid_demo").elastic_grid({
 			{ 'title':'Demo', 'url' : 'http://#' },
 			{ 'title':'Download', 'url':'http://#'}*/
 			],
-			'tags'  : ['Diseño']
+			'tags'  : ['Diseño','Todos']
 			},
 
 			{
@@ -94,19 +94,19 @@ $("#elastic_grid_demo").elastic_grid({
 			{ 'title':'Demo', 'url' : 'http://#' },
 			{ 'title':'Download', 'url':'http://#'}*/
 			],
-			'tags'  : ['Website']
+			'tags'  : ['Website','Todos']
 			},
 
 			{
-			'title' : 'Azuki bean',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/16.jpg', 'img/portfolio/small/13.jpg', 'img/portfolio/small/14.jpg', 'img/portfolio/small/15.jpg', 'img/portfolio/small/16.jpg'],
-			'large' : ['img/portfolio/large/16.jpg', 'img/portfolio/large/13.jpg', 'img/portfolio/large/14.jpg', 'img/portfolio/large/15.jpg', 'img/portfolio/large/16.jpg'],
+			'title' : 'Shidos Burritos',
+			'description'   : 'App para pedir burritos, website publicitario y software administrativo.',
+			'thumbnail' : ['img/portfolio/small/sb/1.jpg', 'img/portfolio/small/sb/2.jpg', 'img/portfolio/small/sb/3.jpg', 'img/portfolio/small/sb/4.jpg', 'img/portfolio/small/sb/5.jpg'],
+			'large' : ['img/portfolio/large/sb/1.jpg', 'img/portfolio/large/sb/2.jpg', 'img/portfolio/large/sb/3.jpg', 'img/portfolio/large/sb/4.jpg', 'img/portfolio/large/sb/5.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Descargar', 'url':'http://#'}
 			],
-			'tags'  : ['App']
+			'tags'  : ['App', 'Website', 'FSW', 'Todos']
 			},
 
 			{
@@ -119,7 +119,7 @@ $("#elastic_grid_demo").elastic_grid({
 			{ 'title':'Demo', 'url' : 'http://#' },
 			{ 'title':'Download', 'url':'http://#'}*/
 			],
-			'tags'  : ['FSW']
+			'tags'  : ['FSW','Todos']
 			},
 
 			{
@@ -132,7 +132,7 @@ $("#elastic_grid_demo").elastic_grid({
 			{ 'title':'Demo', 'url' : 'http://#' },
 			{ 'title':'Download', 'url':'http://#'}*/
 			],
-			'tags'  : ['Website']
+			'tags'  : ['Website','Todos']
 			},
 
 			{
@@ -145,7 +145,7 @@ $("#elastic_grid_demo").elastic_grid({
 			{ 'title':'Demo', 'url' : 'http://#' },
 			{ 'title':'Download', 'url':'http://#'}*/
 			],
-			'tags'  : ['Diseño']
+			'tags'  : ['Diseño','Todos']
 			},
 
 			{
@@ -157,7 +157,7 @@ $("#elastic_grid_demo").elastic_grid({
 			[
 			{ 'title':'Descargar', 'url':'http://#'}
 			],
-			'tags'  : ['App', 'FSW']
+			'tags'  : ['App', 'FSW','Todos']
 			}
 		]
 	});
