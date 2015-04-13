@@ -31,7 +31,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 46941,
+				"buffer_size": 46351,
 				"line_ending": "Windows"
 			}
 		},
@@ -39,7 +39,15 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 31812,
+				"buffer_size": 31810,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/portfolio_slider.js",
+			"settings":
+			{
+				"buffer_size": 8342,
 				"line_ending": "Windows"
 			}
 		}
@@ -51,16 +59,40 @@
 		"selected_items":
 		[
 			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
 				"inst",
 				"Package Control: Install Package"
 			],
 			[
-				"remov",
-				"Package Control: Remove Package"
+				"css",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"git log",
+				"Git: Log All"
 			],
 			[
 				"comm",
 				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add Current File"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
 			],
 			[
 				"curr",
@@ -93,10 +125,6 @@
 			[
 				"set ht",
 				"Set Syntax: HTML"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
 			],
 			[
 				"push",
@@ -153,10 +181,6 @@
 			[
 				"git co",
 				"Set Syntax: Git Commit Message"
-			],
-			[
-				"git ad",
-				"Git: Add..."
 			],
 			[
 				"git",
@@ -224,6 +248,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"large/",
+			"small/",
+			"large/",
+			"small/",
+			",\n			'tags'",
+			"large/",
+			"small/",
+			"Wordpress",
+			"Jquery",
+			"Design",
+			"'All'",
+			"all",
+			"All",
+			"Photoshop",
+			"BEGAIN",
 			" END",
 			"end",
 			"END",
@@ -269,7 +308,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -277,15 +316,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 46941,
+						"buffer_size": 46351,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								46275,
-								46275
+								27610,
+								27610
 							]
 						],
 						"settings":
@@ -296,7 +335,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 13690.0,
+						"translation.y": 7373.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -306,15 +345,15 @@
 					"file": "style.css",
 					"settings":
 					{
-						"buffer_size": 31812,
+						"buffer_size": 31810,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14772,
-								14772
+								644,
+								644
 							]
 						],
 						"settings":
@@ -323,6 +362,34 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/portfolio_slider.js",
+					"settings":
+					{
+						"buffer_size": 8342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monocyanide.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -339,7 +406,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -364,6 +431,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 94.0
+	},
 	"output.git":
 	{
 		"height": 100.0
