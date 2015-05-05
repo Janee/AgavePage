@@ -31,7 +31,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 45813,
+				"buffer_size": 45802,
 				"line_ending": "Windows"
 			}
 		},
@@ -328,15 +328,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 45813,
+						"buffer_size": 45802,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								32873,
-								32873
+								24497,
+								24497
 							]
 						],
 						"settings":
@@ -347,7 +347,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 22994.0,
+						"translation.y": 6198.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
